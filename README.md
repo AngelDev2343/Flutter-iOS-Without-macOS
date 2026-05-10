@@ -1,9 +1,5 @@
 # 🍎 Flutter iOS Testing — Without macOS / Sin macOS
 
----
-
-## 🧪 Testing Flutter Apps on iOS — Without macOS
-
 Normally, building an installable `.ipa` for iOS requires a Mac and an **Apple Developer Program** license. This tutorial covers alternatives using **simulators and virtual environments**, ideal when those requirements aren't available.
 
 > **Note:** This assumes you already have a stable Flutter app in a GitHub repository.
